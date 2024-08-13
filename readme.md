@@ -26,7 +26,7 @@ This method, derived from the referenced paper, does not rely on paired datasets
 
 Below is an example of an image before and after applying our low-light enhancement method:
 
-![Example of Low-Light Image Enhancement](HEP/assets/output.png)
+![Example of Low-Light Image Enhancement](assets/output.png)
 
 *Image on the left: Original low-light image; Image on the right: Enhanced image using the described method.*
 
