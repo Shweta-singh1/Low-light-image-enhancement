@@ -1,0 +1,16 @@
+# Ignore test image directories
+HEP/test_images/
+HEP/test_images_gt/
+
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore environment files
+.env
+venv/
+*.pyenv/
+
+# Ignore model checkpoints
+checkpoints/
